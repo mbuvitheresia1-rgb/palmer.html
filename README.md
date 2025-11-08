@@ -1,2 +1,35 @@
-# palmer-2-
-It is a website created of st.Francis of  assisi school
+
+<html>
+    <body>
+    </body>
+       <h1>ST FRANCIS OF ASSISI COMPREHENSIVE SCHOOL-NGULUNI
+<h2>OUR MISSION :WE TEACH MODEL AND ENOURAGE LEANERS IN PARTNERSHIP WITH THE FAMILY AND COMMUNITY TO PRODUCE RESPECTFUL AND RESPONSIBLE GLOBALLY ACCEPTABLE CITIZENS.<h2>
+        <img src="Screenshot_20251106-081113_YouTube.jpg" alt="">  
+</html>
+<p>ST FRANCIS OF IS LOCATED IN MACHAKOS
+    P.O BOX568-90131
+    TALA
+    email<a href="stfrancisofassisischool@gmail.com">stfrancisofassisischool@gmail.com</a><br>
+    Phone<a href="07151662311">07151662311</a><br>
+    </p>
+    <body>
+        <style>
+            h1
+            {
+                color: red;
+                font-size:xx-large;
+                font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+            }
+            h2
+            {
+                color: rgb(15, 15, 218);
+                font-size: large;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+            }
+            p
+            {
+                color: rgba(221, 13, 93, 0.849);
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+        </style>
+    </body>
